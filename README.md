@@ -1,6 +1,5 @@
 # Does the Post-Soviet Space Still Exist? 
 ## An Unsupervised Machine Learning Approach to Classifying Countries according to Specific Economic and Political Characteristics
-
 ONGOING RESEARCH (LAST UPD MARCH 2022)
 
 # Intro 
