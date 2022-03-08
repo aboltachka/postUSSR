@@ -1,6 +1,8 @@
 # Does the Post-Soviet Space Still Exist? 
 ## An Unsupervised Machine Learning Approach to Classifying Countries according to Specific Economic and Political Characteristics
 
+ONGOING RESEARCH (LAST UPD MARCH 2022)
+
 # Intro 
 The upcoming 30th anniversary of the 1991 Belavezha Accords is again attracting the attention of researchers and policymakers to the topic of the post-Soviet transformation. The question about the consistency of this region’s characteristics compared to other countries and regions or their conceptual differences, based on the theory of institutional change and persistence, is still not fully answered. Benefiting from available open-source data and machine learning (ML) algorithms, I propose to take a new look at this question.
 
